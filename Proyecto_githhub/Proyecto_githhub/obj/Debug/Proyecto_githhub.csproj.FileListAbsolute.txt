@@ -1,0 +1,9 @@
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\bin\Debug\Proyecto_githhub.exe.config
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\bin\Debug\Proyecto_githhub.exe
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\bin\Debug\Proyecto_githhub.pdb
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\obj\Debug\Proyecto_githhub.csprojAssemblyReference.cache
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\obj\Debug\Proyecto_githhub.Properties.Resources.resources
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\obj\Debug\Proyecto_githhub.csproj.GenerateResource.cache
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\obj\Debug\Proyecto_githhub.csproj.CoreCompileInputs.cache
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\obj\Debug\Proyecto_githhub.exe
+c:\users\alexi\source\repos\Proyecto_githhub\Proyecto_githhub\obj\Debug\Proyecto_githhub.pdb
